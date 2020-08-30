@@ -75,7 +75,7 @@ Zignd.html-css-class-completion
 
 ## User Settings
 
-```
+```json
 {
     "editor.suggestSelection": "first",
     "editor.multiCursorModifier": "ctrlCmd",
