@@ -1,4 +1,4 @@
-# these are my Visual Studio Code settings
+# vscode settings yay
 
 ## Extensions
 
