@@ -86,6 +86,7 @@ Zignd.html-css-class-completion
     "prettier.singleQuote": true,
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
     "workbench.colorTheme": "BeardedTheme Arc Eolstorm",
+    "workbench.startupEditor": "newUntitledFile",
     "bracket-pair-colorizer-2.colors": [
         "#D39E17",
         "#A15DEF",
