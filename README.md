@@ -1,6 +1,6 @@
 # vscode settings yay
 * Complete uninstall of all extensions and settings
-** Reinstall with the following extensions and settings
+    * Reinstall with the following extensions and settings
 
 ## Extensions
 
