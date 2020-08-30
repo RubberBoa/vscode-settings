@@ -1,4 +1,6 @@
 # vscode settings yay
+* Complete uninstall of all extensions and settings
+ * Reinstall with the following extensions and settings
 
 ## Extensions
 
@@ -6,11 +8,9 @@
 alexcvzz.vscode-sqlite
 andys8.jest-snippets
 apollographql.vscode-apollo
-aslamanver.vsc-export
 austincummings.razor-plus
 azemoh.one-monokai
 BeardedBear.beardedtheme
-bobsparadox.seti-black
 brapifra.phpserver
 BriteSnow.vscode-toggle-quotes
 christian-kohler.npm-intellisense
@@ -31,23 +31,21 @@ fosshaas.fontsize-shortcuts
 ginfuru.ginfuru-onedark-raincoat-theme
 GitHub.github-vscode-theme
 glitch.glitch
+googlecloudtools.cloudcode
 HookyQR.beautify
-JCsoftIA.jcsoftia
 johnpapa.vscode-cloak
 jolaleye.horizon-theme-vscode
 leizongmin.node-module-intellisense
 mikestead.dotenv
 ms-azuretools.vscode-docker
-MS-CEINTL.vscode-language-pack-es
 ms-mssql.mssql
 ms-python.python
+ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vscode.azure-account
 ms-vsliveshare.vsliveshare
 msjsdiag.debugger-for-chrome
-Nimda.deepdark-material
-Nur.just-black
 octref.vetur
 Orta.vscode-jest
 patbenatar.advanced-new-file
@@ -55,8 +53,8 @@ quicktype.quicktype
 redhat.java
 ritwickdey.LiveServer
 SirTori.indenticator
-SmukkeKim.theme-setimonokai
 streetsidesoftware.code-spell-checker
+TabNine.tabnine-vscode
 thenikso.github-plus-theme
 VisualStudioExptTeam.vscodeintellicode
 vscjava.vscode-java-debug
@@ -70,6 +68,7 @@ WallabyJs.wallaby-vscode
 wayou.vscode-todo-highlight
 whatwedo.twig
 wix.vscode-import-cost
+xabikos.JavaScriptSnippets
 Zignd.html-css-class-completion
 ```
 
