@@ -73,6 +73,7 @@ Zignd.html-css-class-completion
 ```
 
 ## User Settings
+* ctrl/cmd + shift + p > open settings (JSON)
 
 ```json
 {
@@ -88,7 +89,8 @@ Zignd.html-css-class-completion
         "#D39E17",
         "#A15DEF",
         "#3398DB"
-    ]
+    ],
+    "tabnine.experimentalAutoImports": true
 
 }
 ```
