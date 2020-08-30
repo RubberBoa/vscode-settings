@@ -73,7 +73,8 @@ Zignd.html-css-class-completion
 ```
 
 ## User Settings
-* ctrl/cmd + shift + p > open settings (JSON)
+* ctrl/cmd + shift + p
+   * open settings (JSON)
 
 ```json
 {
