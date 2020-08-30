@@ -33,6 +33,7 @@ GitHub.github-vscode-theme
 glitch.glitch
 googlecloudtools.cloudcode
 HookyQR.beautify
+icrawl.discord-vscode
 johnpapa.vscode-cloak
 jolaleye.horizon-theme-vscode
 leizongmin.node-module-intellisense
@@ -44,6 +45,7 @@ ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vscode.azure-account
+ms-vscode.powershell
 ms-vsliveshare.vsliveshare
 msjsdiag.debugger-for-chrome
 octref.vetur
