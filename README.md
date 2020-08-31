@@ -33,7 +33,6 @@ GitHub.github-vscode-theme
 glitch.glitch
 googlecloudtools.cloudcode
 HookyQR.beautify
-icrawl.discord-vscode
 johnpapa.vscode-cloak
 jolaleye.horizon-theme-vscode
 leizongmin.node-module-intellisense
@@ -73,6 +72,7 @@ wix.vscode-import-cost
 xabikos.JavaScriptSnippets
 Zignd.html-css-class-completion
 ```
+* Optional: `icrawl.discord-vscode` # Causes performance issues
 
 ## User Settings
 * ctrl/cmd + shift + p
