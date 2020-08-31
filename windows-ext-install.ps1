@@ -64,7 +64,7 @@ $extensions =
       "vscjava.vscode-maven",
       "vscode-icons-team.vscode-icons",
       "WallabyJs.quokka-vscode",
-      "icrawl.discord-vscode"
+<#      "icrawl.discord-vscode"#>
 $cmd = "code --list-extensions"
 Invoke-Expression $cmd -OutVariable output | Out-Null
 $installed = $output -split "\s"
