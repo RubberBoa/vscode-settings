@@ -148,4 +148,4 @@ Zignd.html-css-class-completion
 }
 ```
 * Windows Settings:
-   * SOON™️
+   * soon™️
