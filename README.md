@@ -139,7 +139,7 @@ Zignd.html-css-class-completion
   "cSpell.userWords": ["Owie", "asyncio", "asyncpg"],
   "editor.formatOnSave": true,
   "python.formatting.provider": "black",
-  "python.envFile": ".env"
+  "python.envFile": "/Users/boa/Workspace/.env"
 }
 ```
 * Windows Settings:
