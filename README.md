@@ -2,7 +2,7 @@
 * Complete uninstall of all extensions and settings
     * Reinstall with the following extensions and settings
 
-## Extensions
+### Extensions
 
 ```
 alexcvzz.vscode-sqlite
@@ -74,11 +74,9 @@ Zignd.html-css-class-completion
 ```
 * Optional: `icrawl.discord-vscode` Causes performance issues
 
-## User Settings
-* ctrl/cmd + shift + p
+### User Settings (macOS
+* cmd + shift + p
    * open settings (JSON)
-
-* macOS Settings:
 ```json
 {
   "editor.suggestSelection": "first",
@@ -149,3 +147,5 @@ Zignd.html-css-class-completion
 ```
 * Windows Settings:
    * soon™️
+* ctrl + shift + p
+   * open settings (JSON)
