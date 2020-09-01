@@ -136,7 +136,12 @@ Zignd.html-css-class-completion
   "terminal.integrated.shell.osx": "/bin/bash",
   "quarkus.tools.alwaysShowWelcomePage": false,
   "python.showStartPage": false,
-  "cSpell.userWords": ["Owie", "asyncio", "asyncpg"],
+  "cSpell.userWords": [
+    "Owie",
+    "asyncio",
+    "asyncpg",
+    "jsons"
+  ],
   "editor.formatOnSave": true,
   "python.formatting.provider": "black",
   "python.envFile": "/Users/boa/Workspace/.env"
