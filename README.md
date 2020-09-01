@@ -74,7 +74,7 @@ Zignd.html-css-class-completion
 ```
 * Optional: `icrawl.discord-vscode` Causes performance issues
 
-### User Settings (macOS
+### User settings (macOS)
 * cmd + shift + p
    * open settings (JSON)
 ```json
@@ -145,6 +145,9 @@ Zignd.html-css-class-completion
   "python.envFile": "/Users/boa/Workspace/.env"
 }
 ```
+
+### User settings (Windows)
+
 * Windows Settings:
    * soon™️
 * ctrl + shift + p
