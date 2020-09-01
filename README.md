@@ -78,23 +78,69 @@ Zignd.html-css-class-completion
 * ctrl/cmd + shift + p
    * open settings (JSON)
 
+* macOS Settings:
 ```json
 {
-    "editor.suggestSelection": "first",
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.formatOnPaste": true,
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "files.autoSave": "onWindowChange",
-    "prettier.singleQuote": true,
-    "workbench.iconTheme": "eq-material-theme-icons-palenight",
-    "workbench.colorTheme": "BeardedTheme Arc Eolstorm",
-    "workbench.startupEditor": "newUntitledFile",
-    "bracket-pair-colorizer-2.colors": [
-        "#D39E17",
-        "#A15DEF",
-        "#3398DB"
-    ],
-    "tabnine.experimentalAutoImports": true
-
+  "editor.suggestSelection": "first",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.autoSave": "onWindowChange",
+  "prettier.singleQuote": true,
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
+  "workbench.colorTheme": "BeardedTheme Arc Eolstorm",
+  "workbench.startupEditor": "newUntitledFile",
+  "bracket-pair-colorizer-2.colors": ["#D39E17", "#A15DEF", "#3398DB"],
+  "tabnine.experimentalAutoImports": true,
+  "python.languageServer": "Microsoft",
+  "python.defaultInterpreterPath": "/usr/local/bin/python3",
+  "python.pythonPath": "/usr/local/bin/python3",
+  "sonarlint.ls.javaHome": "/Users/boa/.vscode/extensions/sonarsource.sonarlint_managed-jre/jre/jdk-11.0.8+10-jre/Contents/Home",
+  "java.semanticHighlighting.enabled": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "sonarlint.rules": {
+    "java:S106": {
+      "level": "off"
+    },
+    "python:S1192": {
+      "level": "off"
+    },
+    "python:S3776": {
+      "level": "off"
+    },
+    "python:S1066": {
+      "level": "off"
+    },
+    "python:S108": {
+      "level": "off"
+    },
+    "python:S4144": {
+      "level": "off"
+    },
+    "python:S1871": {
+      "level": "off"
+    },
+    "python:S107": {
+      "level": "off"
+    },
+    "python:S125": {
+      "level": "off"
+    }
+  },
+  "java.project.importOnFirstTimeStartup": "automatic",
+  "terminal.integrated.shell.osx": "/bin/bash",
+  "quarkus.tools.alwaysShowWelcomePage": false,
+  "python.showStartPage": false,
+  "cSpell.userWords": ["Owie", "asyncio", "asyncpg"],
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "python.envFile": ".env"
 }
 ```
+* Windows Settings:
+   * SOON™️
