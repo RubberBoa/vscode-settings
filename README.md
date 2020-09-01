@@ -72,7 +72,7 @@ wix.vscode-import-cost
 xabikos.JavaScriptSnippets
 Zignd.html-css-class-completion
 ```
-* Optional: `icrawl.discord-vscode` # Causes performance issues
+* Optional: `icrawl.discord-vscode` Causes performance issues
 
 ## User Settings
 * ctrl/cmd + shift + p
